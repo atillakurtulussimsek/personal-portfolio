@@ -15,13 +15,14 @@ const Home: NextPage = () => (
       <div className="space-y-4 md:space-y-10">
         <div>
           <h1 className="text-3xl font-semibold text-gray-800 md:text-6xl">
-            Hello, I am <span className="text-indigo-600">Eggsy</span>
+            Merhaba, Ben <span className="text-indigo-600">Atilla</span>
           </h1>
           <h2 className="text-xl text-gray-500 md:text-3xl">
-            Full-stack web developer
+            Yazılım Geliştirici & Yönetici
           </h2>
         </div>
 
+        {/* Hello World
         <div className="text-gray-600 md:text-xl">
           <p>I try to build things that people would use.</p>
           <p>I've started as a Junior Developer with HTML and CSS.</p>
@@ -30,9 +31,10 @@ const Home: NextPage = () => (
           <p>I'd like to learn more about JavaScript and its history.</p>
           <p>One day I want to find a full-time remote job.</p>
         </div>
+        */}
 
-        <Button href="https://eggsy.xyz" target="_blank">
-          Hire Me
+        <Button href="https://atillasimsek.com.tr" target="_blank">
+          İş Teklifleri
         </Button>
       </div>
     </div>
@@ -51,13 +53,14 @@ const Home: NextPage = () => (
 
       <div className="items-center justify-center bg-indigo-600 md:space-x-6 md:flex">
         <div className="items-center p-4 space-x-4 bg-white md:rounded md:flex">
+          {/* Hello World
           <Image
             src="/memoji.png"
             height="150px"
             width="150px"
             alt="Memoji"
             draggable="false"
-          />
+          />*/}
 
           <div className="space-y-2">
             <Information />

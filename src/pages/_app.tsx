@@ -10,7 +10,7 @@ const PersonalPortfolio = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>Personal Portfolio</title>
+        <title>Kişisel Portfolyo</title>
       </Head>
 
       <Component {...pageProps} />

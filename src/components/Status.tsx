@@ -53,7 +53,7 @@ const Status: React.FC = () => {
   };
 
   if (loading === false && status?.discord_status === "offline")
-    return <div className="text-white">User is offline...</div>;
+    return <div className="text-white">Şimdilik buralarda değilim...</div>;
   else
     return (
       <>
@@ -95,7 +95,7 @@ const Status: React.FC = () => {
             </div>
           </div>
         ) : (
-          <div className="text-white">Loading data...</div>
+          <div className="text-white">Veri hazırlanıyor...</div>
         )}
       </>
     );

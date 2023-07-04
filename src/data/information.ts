@@ -1,15 +1,15 @@
 const information = [
   {
-    title: "Phone",
-    value: "+90 555 444 33 22",
+    title: "WhatsApp",
+    value: "+90 850 307 42 21",
   },
   {
-    title: "Email",
-    value: "eggsydev@gmail.com",
+    title: "Mail",
+    value: "kurtulus@atillasimsek.com.tr",
   },
   {
-    title: "Address",
-    value: "Turkey, Istanbul",
+    title: "Adres",
+    value: "Ortaca, Muğla, Türkiye",
   },
 ];
 
