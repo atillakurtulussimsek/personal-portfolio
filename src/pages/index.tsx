@@ -33,7 +33,7 @@ const Home: NextPage = () => (
         </div>
         */}
 
-        <Button href="https://atillasimsek.com.tr" target="_blank">
+        <Button href="https://linkedin.com/in/albaysimsek" target="_blank">
           İş Teklifleri
         </Button>
       </div>
